@@ -1,0 +1,23 @@
+{
+  "clients": [
+    {
+      "fecha": "2023-04-26",
+      "nombre": "Camila Ayelen Brahim",
+      "red": "n",
+      "correo": "cami@gmail.com",
+      "sexo": "Femenino",
+      "moto": "e",
+      "modelo": "moto 123",
+      "dominio": "nose",
+      "telefono": "+5493816979681",
+      "barrio": "72 viviendas",
+      "problema": "motor",
+      "estado": "Bueno",
+      "servicio": "Cambio reten motor",
+      "mecanico": "Ivan",
+      "status": true,
+      "spotLight": false,
+      "id": 1
+    }
+  ]
+}
